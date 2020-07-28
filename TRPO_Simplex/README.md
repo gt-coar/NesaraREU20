@@ -1,1 +1,1 @@
-Solving Discrete state and discrete action RL problems using Simplex Method
+Solving Discrete state and Discrete action RL problems using TRPO Formulation and Simplex LP Algorithm
