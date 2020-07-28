@@ -1,7 +1,7 @@
 # NesaraREU20
 ### Nesara's REU 2020 Project Code Repository
 
-#### Contents
+### Contents
 
 * __Plot J__
   * Contains the implementation of 3D visualization of the objective function of a 2 State 2 Action MDP
