@@ -24,15 +24,15 @@
 * __TRPO__ 
   * Contains the implementation of Trust Region Policy Optimization Algorithm
 * __Compare Algorithms__ : Notebooks containing comparisons between various algorithms implemented in this repository
-  * Compare time and iteration: Compares the total time and total iterations taken by the following algorithms to converge in separate plots
+  * <b><i>Compare time and iteration </i></b>: Compares the total time and total iterations taken by the following algorithms to converge in separate plots
     * Policy Iteration
     * Value Iteration
     * Policy Gradient with Direct Parameterization (Constant step-size)
     * Policy Gradient with Direct Parameterization (Time variant step-size)
     * Policy Gradient with Softmax Parameterization (Constant step-size)
     * Policy Gradient with Softmax Parameterization (Time variant step-size)
-  * Compare mirror and lazy mirror descent : Compares the convergence between mirror and lazy mirror descent algorithms
-  * Compare convergence of policy gradient algos : Compares the total iterations taken by the following policy gradient based algorithms to converge 
+  * <b><i>Compare mirror and lazy mirror descent</i></b> : Compares the convergence between mirror and lazy mirror descent algorithms
+  * <b><i>Compare convergence of policy gradient algos</i></b> : Compares the total iterations taken by the following policy gradient based algorithms to converge 
     * Policy Gradient with Direct Parameterization (Constant step-size)
     * Policy Gradient with Softmax Parameterization (Constant step-size)
     * Policy Gradient with Softmax Parameterization (Constant step-size) : Function Approximation
